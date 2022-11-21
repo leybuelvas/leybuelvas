@@ -19,12 +19,16 @@
 ###
 
 <br clear="both">
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/leybuelvas/count.svg?"  />
 </div>
-
+<br/>
 ###
+<br/>
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -42,6 +46,8 @@
 </div>
 
 ###
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=leybuelvas" height="150" alt="stats graph"  />
@@ -50,7 +56,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leybuelvas/leybuelvas/blob/output/snake.svg" alt="Snake animation" />
+<br/>
+<br/>
 
 ###
 

@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Firebase, Node and TypesScript.<br>✨ Doing projects as i study<br>📌Learn conversational english</p>
+<p align="left">📚 I'm currently learning Firebase, Node and TypesScript.<br>✨ Doing projects as i study<br>📌Learn conversational english<br>📧leycibuelvas73@gmail.com</p>
 
 ###
 
@@ -75,3 +75,6 @@
 </div>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sks776oodxazjoknmlbqog7b74)
+   

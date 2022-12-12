@@ -22,13 +22,6 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/leybuelvas/count.svg?"  />
-</div>
-
-<br/>
-<br/>
-
 ###
 <br/>
 <br/>

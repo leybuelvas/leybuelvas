@@ -1,12 +1,19 @@
-<p align="left">Hey👋  What's up!</p>
 
 ###
 
-<p align="left">My name is Leyci i'm software developer.</p>
+***<p align="left">👋 Hi, I'm Leyci, Backend Software Developer.</p>***
+
+I'm a highly motivated backend software developer passionate about creating scalable and efficient solutions. With a strong background in Backend Programming, I have proven skills in creating robust and high performance applications.
+
+🎓My software development experience includes creating scalable architectures, implementing databases and integrating external services via APIs. I am familiar with a wide range of technologies and programming languages, including Java, JavaScript, Express js, Node.js and SQL, which allows me to quickly adapt to new environments and technologies.
+
+In addition, I am passionate about working in teams and collaborating with other developers to achieve common goals. I have proven skills both in communication and in technical or non-technical environments, which allows me to work with multidisciplinary teams and in different sectors.
+
+🎯I am constantly looking for opportunities to learn and grow as a software developer. Always interested in new technologies and finding innovative solutions to development challenges.
+
+If you want to know more about me, you can connect with me on Linkedln or send me an email.
 
 ###
-
-<img align="right" height="200" src="https://www.gratistodo.com/wp-content/uploads/2016/07/imagenes-relajantes-1.gif"  />
 
 ###
 
@@ -15,14 +22,6 @@
 ###
 
 <p align="left">📚 I'm currently learning Firebase, Node and TypesScript.<br>✨ Doing projects as i study<br>📌Learn conversational english<br>📧leycibuelvas73@gmail.com</p>
-
-###
-
-<br clear="both">
-<br/>
-<br/>
-
-###
 <br/>
 <br/>
 
@@ -67,7 +66,5 @@
   </a>
 </div>
 
-###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sks776oodxazjoknmlbqog7b74)
    
